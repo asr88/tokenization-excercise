@@ -1,0 +1,9 @@
+torch==2.9.1
+transformers==4.57.5
+scikit-learn==1.8.0
+matplotlib==3.10.8
+numpy==2.4.1
+scipy==1.17.0
+pandas==2.3.3
+seaborn==0.13.2
+ipympl==0.9.8
